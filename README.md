@@ -14,7 +14,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝       ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝   
 ```
 
-**`adversary emulation engineer · ICS/OT · threat actor research`**
+**`adversary emulation / offensive security / security research engineer · ICS/OT · threat actor research · exploit development · C2 and Offensive tooling`**
 
 ![](https://img.shields.io/badge/Focus-Adversary%20Emulation-red?style=flat-square&labelColor=0d1117&color=f85149)
 ![](https://img.shields.io/badge/Domain-ICS%2FOT%20%7C%20IT-orange?style=flat-square&labelColor=0d1117&color=e3b341)
@@ -29,7 +29,7 @@
 ```bash
 [root@simspace ~]$ cat ./about.txt
 
-  Role    │ Adversary Emulation Engineer @ SimSpace
+  Role    │ Adversary Emulation Engineer / Offensive Security / Security Research Engineer @ SimSpace
   Focus   │ Designing + deploying automated attack simulations
             that emulate real-world threat actors across IT and OT networks
   Scope   │ Chimera/Conductor scenario orchestration · Red vs. Blue · CSIRT
