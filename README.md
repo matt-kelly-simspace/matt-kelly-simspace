@@ -33,7 +33,7 @@
   Focus   │ Designing + deploying automated attack simulations
             that emulate real-world threat actors across IT and OT networks
   Scope   │ Chimera/Conductor scenario orchestration · Red vs. Blue · CSIRT
-  Certs   │ GICSP · GRID (SANS) · CISSP · PNPT · GXPN
+  Certs   │ OSCP · GISCP · GRID · PNPT · GXPN · CISSP
 ```
 
 ---
