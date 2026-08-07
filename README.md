@@ -18,7 +18,7 @@
 
 ![](https://img.shields.io/badge/Focus-Adversary%20Emulation-red?style=flat-square&labelColor=0d1117&color=f85149)
 ![](https://img.shields.io/badge/Domain-ICS%2FOT%20%7C%20IT-orange?style=flat-square&labelColor=0d1117&color=e3b341)
-![](https://img.shields.io/badge/Cert-GICSP%20%7C%20GRID-green?style=flat-square&labelColor=0d1117&color=00d26a)
+![](https://img.shields.io/badge/Cert-OSCP%20%7C%20GXPN-green?style=flat-square&labelColor=0d1117&color=00d26a)
 ![](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-blue?style=flat-square&labelColor=0d1117&color=58a6ff)
 ![](https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square&labelColor=0d1117&color=3fb950)
 
